@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Desarrollo+de+Software;Frontend+%7C+Backend+%7C+Desktop;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
-## 💫 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Desarrollo de Sistemas de Software** con pasión por crear soluciones tecnológicas que generen impacto. Me especializo en **desarrollo frontend**, **backend** y **desarrollo de software de escritorio con Java**.
 
@@ -60,7 +60,7 @@ Participé en el desarrollo de este sistema en conjunto con la **Municipalidad d
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-mancin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mancin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mancin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -81,7 +81,4 @@ Participé en el desarrollo de este sistema en conjunto con la **Municipalidad d
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-mancin&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
 </div>
-
-<div align="center">
-  💙 Gracias por visitar mi perfil
 </div>
