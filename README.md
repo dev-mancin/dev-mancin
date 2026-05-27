@@ -56,17 +56,6 @@ Soy estudiante de **Desarrollo de Sistemas de Software** con pasión por crear s
 ### 📋 RUMM - Registro Único de Mascotas Municipal
 Participé en el desarrollo de este sistema en conjunto con la **Municipalidad de Chancay** como parte de mis experiencias formativas. El proyecto busca gestionar eficientemente el registro y control de mascotas a nivel municipal.
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-mancin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mancin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mancin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🤝 Conecta conmigo
 
 <div align="center">
