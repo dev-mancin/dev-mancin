@@ -1,73 +1,111 @@
-<!--
-## Hi there 👋
-**dev-mancin/dev-mancin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hola, soy Edoardo Mancin Rafael 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Desarrollo+de+Software;Frontend+%7C+Backend+%7C+Desktop;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+
+# MNCN
+
+### Software Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DA6FD&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Desktop+Development;Building+Modern+Digital+Solutions;Always+Learning+New+Technologies" />
+
 </div>
 
-## Sobre mí
+---
 
-Soy estudiante de **Desarrollo de Sistemas de Software** con pasión por crear soluciones tecnológicas que generen impacto. Me especializo en **desarrollo frontend**, **backend** y **desarrollo de software de escritorio con Java**.
+## About Me
 
-- 🎓 Formación en Desarrollo de Sistemas de Software
-- 💼 Abierto a colaboraciones y oportunidades laborales
-- 🌱 Actualmente aprendiendo **React**, **Python** y **SQL Server**
-- 🚀 Enfocado en escribir código limpio y escalable
+I am a Software Development student focused on building modern, scalable and functional applications.  
+My interests include frontend development, backend systems and desktop applications.
 
-## 🛠️ Tecnologías y Herramientas
+- Software Development Student
+- Focused on clean and scalable code
+- Currently learning React, Python and SQL Server
+- Open to collaborations and professional opportunities
 
-### Lenguajes
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### Frameworks y Librerías
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Technologies
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### Languages
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
 
-## 🎯 Proyecto Destacado
+<img src="https://img.shields.io/badge/HTML5-4DA6FD?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-4DA6FD?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-4DA6FD?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-4DA6FD?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-4DA6FD?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-### 📋 RUMM - Registro Único de Mascotas Municipal
-Participé en el desarrollo de este sistema en conjunto con la **Municipalidad de Chancay** como parte de mis experiencias formativas. El proyecto busca gestionar eficientemente el registro y control de mascotas a nivel municipal.
+</p>
 
-## 🤝 Conecta conmigo
+### Frameworks & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-4DA6FD?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-4DA6FD?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-4DA6FD?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
+
+### Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4DA6FD?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-4DA6FD?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-4DA6FD?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-4DA6FD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-4DA6FD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</p>
+
+---
+
+## Featured Project
+
+### RUMM — Registro Único de Mascotas Municipal
+
+System developed as part of professional training experiences in collaboration with the Municipalidad de Chancay.  
+The project focuses on improving municipal pet registration and management through digital solutions.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-mancin-rafael-83b93228a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edoardo_rafael/)
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-mancin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4DA6FD&icon_color=4DA6FD" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mancin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4DA6FD" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/edoardo-mancin-rafael-83b93228a/">
+<img src="https://img.shields.io/badge/LinkedIn-4DA6FD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/edoardo_rafael/">
+<img src="https://img.shields.io/badge/Instagram-4DA6FD?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-mancin&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
-</div>
+
+<img src="https://komarev.com/ghpvc/?username=dev-mancin&color=4DA6FD&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
